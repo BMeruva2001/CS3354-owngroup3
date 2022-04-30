@@ -4,7 +4,7 @@ public class AddToCart {
     private boolean item;
     private int stock;
 
-    public VendingMachine() {
+    public AddToCart() {
         login = false;
         item = true;
         cart = 0;
